@@ -1,4 +1,5 @@
 // Optimized implementation of Bubble sort
+// Joe added comment.
 #include <stdio.h>
 
 void swap(int *xp, int *yp)
